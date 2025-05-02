@@ -4,7 +4,18 @@ This repository contains the code, data processing pipelines, and analysis noteb
 
 ## Key Features
 
-@@ -19,10 +19,117 @@ Engages clinicians, data scientists, policymakers, social scientists, medical hi
+### Interdisciplinary Collaboration
+Engages clinicians, data scientists, policymakers, social scientists, medical historians, and underrepresented patients to define clinical fairness criteria and translate them into actionable, quantifiable metrics .
+
+### Four‑Phase Methodology
+
+  1. Comprehensive review of bias types in healthcare ML.
+
+  2. Selection of a peer‑reviewed stroke prediction model with rich sociodemographic variables.
+
+  3. Faithful replication of the chosen model using original study protocols.
+
+  4. Systematic bias evaluation and reporting across patient subgroups 
 
 
 ### Proof‑of‑Concept on NHANES Data
